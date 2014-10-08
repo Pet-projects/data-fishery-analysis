@@ -18,7 +18,18 @@ Fisheries archive: http://webarchive.nationalarchives.gov.uk/20140108121958/http
 - We assume that the fish uptake on the marine areas is distributed linearly.
 
 
-## 4. Process
+## 4. Findings
+
+••The coordinate system**
+
+The datasets from NBN use the Ordonance Survey Grid letter notation to describe position (example: SR826222).
+http://en.wikipedia.org/wiki/Ordnance_Survey_National_Grid#Grid_letters
+
+You can transform this into British National Grid Coordinate system EPSG:27700.
+From EPSG:27700 you can transform to EPSG:4326 (GPS coordinates - WGS 84).
+
+
+## 5. Progress
 
 I have downloaded the Shapefile that describes the Marine plan areas.
 
@@ -27,10 +38,13 @@ Using QGIS I have reduced the complexity of the polygons and converted the file 
 I have imported the file into one Google Fusion Table:
 https://www.google.com/fusiontables/DataSource?docid=1YQCLtaatdZ2PbxrhMbb3VbPMF5ve3giES_iEgcPt
 
-I am working to transform this information into the grid format that we use.
+
+I am working to convert from grid letter notation to WGS 84
 
 
-## 5. Technologies
+
+
+## 6. Technologies
 
 **QGIS**
 
