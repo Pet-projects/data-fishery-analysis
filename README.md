@@ -17,9 +17,9 @@ Fisheries archive: http://webarchive.nationalarchives.gov.uk/20140108121958/http
 3. Assumptions
 ==
 
- We will use a timescale of one month.
- All the location data will be splitted in tiles of 10 kilometers.
- We assume that the fish uptake on the marine areas is distributed linearly.
+- We will use a timescale of one month.
+- All the location data will be splitted in tiles of 10 kilometers.
+- We assume that the fish uptake on the marine areas is distributed linearly.
 
 
 4. Process
@@ -33,23 +33,23 @@ Fisheries archive: http://webarchive.nationalarchives.gov.uk/20140108121958/http
 5. Technologies
 ==
 
-*QGIS*
+**QGIS**
 
  GIS application that also works on OSX. Can be used to view and edit ShapeFiles.
 
-*Google Fusion Tables*
+**Google Fusion Tables**
 
   Can be use to store and visualize location data.
 
-*Google Cloud Storage*
+**Google Cloud Storage**
 
   Can be used to store large file before processing them
 
-*Google BigQuery*
+**Google BigQuery**
 
   Column-based NoSQL database optimised for fast querying.
   
-*AWS Elactic Map Reduce*
+**AWS Elactic Map Reduce**
 
   On demand Hadoop cluster using AWS. It gets data from S3 and stores data to S3.
   
