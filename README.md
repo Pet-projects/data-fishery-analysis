@@ -14,7 +14,7 @@ Fisheries archive: http://webarchive.nationalarchives.gov.uk/20140108121958/http
 ## 3. Assumptions
 
 - We will use a timescale of one month.
-- All the location data will be splitted in tiles of 10 kilometers.
+- All the location data will be splitted in tiles of 100m.
 - We assume that the fish uptake on the marine areas is distributed linearly.
 
 
