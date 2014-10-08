@@ -35,6 +35,8 @@ I am working to transform this information into the grid format that we use.
 **QGIS**
 
  GIS application that also works on OSX. Can be used to view and edit ShapeFiles.
+ 
+ Can be installed from: http://www.kyngchaos.com/software/qgis
 
 **Google Fusion Tables**
 
