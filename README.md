@@ -7,13 +7,13 @@ I am trying to pull together data from various sources regarding the state of th
 
 ## 2. Datasets
 
-**Used datasets**
+### Currently used datasets
 
 European marine zones: http://geo.ices.dk/download.php?dataset=ices_ref:ices_areas
 
 Fisheries archive: http://webarchive.nationalarchives.gov.uk/20140108121958/http://www.marinemanagement.org.uk/fisheries/statistics/annual_archive.htm
 
-**Other useful datasets**
+### Other datasets
 
 Fish catch by time, species and zone:
 http://www.ices.dk/marine-data/dataset-collections/Pages/Fish-catch-and-stock-assessment.aspx
