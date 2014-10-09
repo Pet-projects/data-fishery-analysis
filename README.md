@@ -7,9 +7,9 @@ I am trying to pull together data from various sources regarding the state of th
 
 ## 2. Datasets
 
-Marine plan areas: http://webarchive.nationalarchives.gov.uk/20140507202222/http://www.marinemanagement.org.uk/marineplanning/areas/index.htm
+MMO Marine plan areas: http://webarchive.nationalarchives.gov.uk/20140507202222/http://www.marinemanagement.org.uk/marineplanning/areas/index.htm
 
-European marine plan areas ?: http://ec.europa.eu/fisheries/documentation/publications/poster_tac2012_en.pdf
+European marine areas: http://geo.ices.dk/download.php?dataset=ices_ref:ices_areas
 
 Fisheries archive: http://webarchive.nationalarchives.gov.uk/20140108121958/http://www.marinemanagement.org.uk/fisheries/statistics/annual_archive.htm
 
