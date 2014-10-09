@@ -15,8 +15,11 @@ Fisheries archive: http://webarchive.nationalarchives.gov.uk/20140108121958/http
 
 ### Other datasets
 
-Fish catch by time, species and zone:
+ICES Fish catch by time, species and zone:
 http://www.ices.dk/marine-data/dataset-collections/Pages/Fish-catch-and-stock-assessment.aspx
+
+ICES data collections:
+http://ices.dk/marine-data/dataset-collections/Pages/default.aspx
 
 Marine Biodiversity Network: 
 https://data.nbn.org.uk/Documentation/NBN_Gateway_Documentation/User_How_Tos/Downloading_records/#Downloadingrecords
