@@ -42,8 +42,10 @@ Using QGIS I have reduced the complexity of the polygons and converted the file 
 I have imported the file into one Google Fusion Table:
 https://www.google.com/fusiontables/DataSource?docid=1YQCLtaatdZ2PbxrhMbb3VbPMF5ve3giES_iEgcPt
 
+Using QGIS, I have transformed the data into EPSGL27700 coordinate system and gridded the area into 10km tiles:
+https://www.google.com/fusiontables/DataSource?docid=1VhuS54d9G2zDy8vqzVIdsXIvk5NiaQpbeF2tQ8lb
 
-I am working to convert from grid letter notation to WGS 84
+I am working to match the data from fisheries quotas to this marine areas
 
 
 
