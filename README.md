@@ -9,7 +9,11 @@ I am trying to pull together data from various sources regarding the state of th
 
 Marine plan areas: http://webarchive.nationalarchives.gov.uk/20140507202222/http://www.marinemanagement.org.uk/marineplanning/areas/index.htm
 
+European marine plan areas ?: http://ec.europa.eu/fisheries/documentation/publications/poster_tac2012_en.pdf
+
 Fisheries archive: http://webarchive.nationalarchives.gov.uk/20140108121958/http://www.marinemanagement.org.uk/fisheries/statistics/annual_archive.htm
+
+
 
 ## 3. Assumptions
 
@@ -20,7 +24,7 @@ Fisheries archive: http://webarchive.nationalarchives.gov.uk/20140108121958/http
 
 ## 4. Findings
 
-••The coordinate system**
+**The coordinate system**
 
 The datasets from NBN use the Ordonance Survey Grid letter notation to describe position (example: SR826222).
 http://en.wikipedia.org/wiki/Ordnance_Survey_National_Grid#Grid_letters
