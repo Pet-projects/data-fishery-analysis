@@ -48,6 +48,7 @@ I have added two new columns **XCoord_10k** and **YCoord_10k** that represents t
 I have inserted the gridded data of the EU marine areas around Uk into the following table:
 https://www.google.com/fusiontables/DataSource?docid=1Pd2mBJXCjsPVcH29A4gHHcao5WckIsgkYgN2WM6H
 
+Next step is to normalize the data from the fisheries quotas to be able to glue that with the EU marine zones. 
 
 ## 6. Technologies
 
