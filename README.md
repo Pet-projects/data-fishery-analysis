@@ -7,11 +7,24 @@ I am trying to pull together data from various sources regarding the state of th
 
 ## 2. Datasets
 
-MMO Marine plan areas: http://webarchive.nationalarchives.gov.uk/20140507202222/http://www.marinemanagement.org.uk/marineplanning/areas/index.htm
+**Used datasets**
 
 European marine zones: http://geo.ices.dk/download.php?dataset=ices_ref:ices_areas
 
 Fisheries archive: http://webarchive.nationalarchives.gov.uk/20140108121958/http://www.marinemanagement.org.uk/fisheries/statistics/annual_archive.htm
+
+**Other useful datasets**
+
+Fish catch by time, species and zone:
+http://www.ices.dk/marine-data/dataset-collections/Pages/Fish-catch-and-stock-assessment.aspx
+
+Marine Biodiversity Network: 
+https://data.nbn.org.uk/Documentation/NBN_Gateway_Documentation/User_How_Tos/Downloading_records/#Downloadingrecords
+
+National Weather Archive:
+http://www.metoffice.gov.uk/learning/library/archive
+
+MMO Marine plan areas: http://webarchive.nationalarchives.gov.uk/20140507202222/http://www.marinemanagement.org.uk/marineplanning/areas/index.htm
 
 
 
