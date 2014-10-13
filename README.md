@@ -53,6 +53,9 @@ http://en.wikipedia.org/wiki/Ordnance_Survey_National_Grid#Grid_letters
 You can transform this into British National Grid Coordinate system EPSG:27700.
 From EPSG:27700 you can transform to EPSG:4326 (GPS coordinates - WGS 84).
 
+To store location data we can use EPSG:27700 and adjust it to 10km tiles.
+All other notation systems should be converted into tile coordinates.
+
 
 ## 5. Progress
 
