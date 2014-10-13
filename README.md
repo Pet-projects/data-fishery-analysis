@@ -9,9 +9,12 @@ I am trying to pull together data from various sources regarding the state of th
 
 ### Currently used datasets
 
-European marine zones: http://geo.ices.dk/download.php?dataset=ices_ref:ices_areas
+European marine zones: 
+http://geo.ices.dk/download.php?dataset=ices_ref:ices_areas
 
-Fisheries archive: http://webarchive.nationalarchives.gov.uk/20140108121958/http://www.marinemanagement.org.uk/fisheries/statistics/annual_archive.htm
+ICES catch data:
+http://www.ices.dk/marine-data/dataset-collections/Pages/Fish-catch-and-stock-assessment.aspx
+
 
 ### Other datasets
 
@@ -29,11 +32,13 @@ http://www.metoffice.gov.uk/learning/library/archive
 
 MMO Marine plan areas: http://webarchive.nationalarchives.gov.uk/20140507202222/http://www.marinemanagement.org.uk/marineplanning/areas/index.htm
 
+Fisheries archive: http://webarchive.nationalarchives.gov.uk/20140108121958/http://www.marinemanagement.org.uk/fisheries/statistics/annual_archive.htm
 
 
 ## 3. Assumptions
 
-- We will use a timescale of one month.
+- We will use a timescale of one year.
+- The time window we are looking at spans from 2006 to 2012
 - All the location data will be splitted in tiles of 10km.
 - We assume that the fish uptake on the marine areas is distributed linearly.
 
@@ -64,7 +69,18 @@ I have added two new columns **XCoord_10k** and **YCoord_10k** that represents t
 I have inserted the gridded data of the EU marine areas around Uk into the following table:
 https://www.google.com/fusiontables/DataSource?docid=1Pd2mBJXCjsPVcH29A4gHHcao5WckIsgkYgN2WM6H
 
-Next step is to normalize the data from the fisheries quotas to be able to glue that with the EU marine zones. 
+From the Fusion tables, I have exported them to CSV and then imported the data into BigQuery tables.
+
+The BigQuery tables contain the following:
+ - The gridded tiles for the marine zones around UK
+ - List of all the ICES zones and their areas
+ - A table with all the catch data from the ICES zones, by year, specie, zone.
+ - List of all the species and their scientific name
+ 
+I have derived a table from the original ICES catch table that only contains data for the UK marine zones.
+
+Next step is to add data fron the National Biodiversity Network.
+
 
 ## 6. Technologies
 
