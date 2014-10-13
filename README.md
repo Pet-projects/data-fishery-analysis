@@ -38,8 +38,8 @@ Fisheries archive: http://webarchive.nationalarchives.gov.uk/20140108121958/http
 ## 3. Assumptions
 
 - We will use a timescale of one year.
-- The time window we are looking at spans from 2006 to 2012
-- All the location data will be splitted in tiles of 10km.
+- The time frame we are looking at spans from 2006 to 2012
+- All the location data will be splitted in tiles of 10km that map to the UK grid.
 - We assume that the fish uptake on the marine areas is distributed linearly.
 
 
